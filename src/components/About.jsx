@@ -8,13 +8,13 @@ const About = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
                 <p className='text-xl mt-20'>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni nesciunt nam odio eum distinctio mollitia natus atque ipsam, optio autem itaque, reiciendis quisquam minus quaerat nostrum fugit suscipit magnam! Sint.
+                Highly motivated Full Stack Developer that’s seeking a challenging internship or part/full time position in the web development industry. Looking to contribute and add value through technical knowledge learned through university studies and personal experience. Very passionate about Full Stack Development and ready to learn and improve daily while working individually or in a team setting.
                 </p>
 
                 <br />
 
                 <p className='text-xl'>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi commodi nam reiciendis quisquam quibusdam at eum sapiente, quos veniam nesciunt nisi, harum reprehenderit magnam voluptates. Quis cum accusantium ea dolor.
+                    I am a father of 2 and have been happily married for almost 7 years. My wife Bianca, my son Leo, and my daughter Maya are my special gifts. God and my family are my motivators! I am so blessed and thankful for the things in my life. I am grateful for any opportunity I receive moving forward. 
                 </p>
             </div>
 
